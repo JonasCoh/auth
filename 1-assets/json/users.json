@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "firstName": "Noam",
+        "lastName": "gaash",
+        "username": "noam_gaash",
+        "password": "1234",
+        "role": "User"
+    },
+    {
+        "id": 2,
+        "firstName": "Hana",
+        "lastName": "sasha",
+        "username": "hana_sasha",
+        "password": "1234",
+        "role": "User"
+    },
+    {
+        "id": 3,
+        "firstName": "Kipi",
+        "lastName": "ben-Kipod",
+        "username": "kipi_ben-Kipod",
+        "password": "1234",
+        "role": "Admin"
+    },
+    {
+        "id": 4,
+        "firstName": "moshie",
+        "lastName": "ufnik",
+        "username": "moshie_ufnik",
+        "password": "12345",
+        "role": "User"
+    },
+    {
+        "id": 5,
+        "firstName": "ugi",
+        "lastName": "fletzet",
+        "username": "ugi_fletzet",
+        "password": "1234567",
+        "role": "User"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 3,
+        "name": "Brief Hitory of time",
+        "price": 80
+    },
+    {
+        "id": 4,
+        "name": "Nemo",
+        "price": 10000
+    },
+    {
+        "id": 5,
+        "name": "Harray Poter",
+        "price": "99"
+    },
+    {
+        "id": 6,
+        "name": "Harray Poter2",
+        "price": "99"
+    },
+    {
+        "id": 7,
+        "name": "Harray Poter 3",
+        "price": "33",
+        "imageName": "50b7e229-8799-4178-8d10-cd4aa04d0aec.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Harray Poter 7",
+        "price": "77",
+        "imageName": "876bba57-6c42-4974-a5a3-f4342bbacd4a.jpg"
+    }
+]
